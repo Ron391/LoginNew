@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginNew", "LoginNew.csproj", "{AC61C0AA-9347-4C25-A132-EB89D709F295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC61C0AA-9347-4C25-A132-EB89D709F295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC61C0AA-9347-4C25-A132-EB89D709F295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC61C0AA-9347-4C25-A132-EB89D709F295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC61C0AA-9347-4C25-A132-EB89D709F295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B751C369-41F1-4649-B5A0-AD1EB67C2A5B}
+	EndGlobalSection
+EndGlobal
